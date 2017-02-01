@@ -45,8 +45,9 @@ public class Magpie2
         else if (statement.indexOf("nemo") >= 0
             || statement.indexOf("niemitalo") >= 0)
         {
-            response = "He sounds like an interesting teacher.";
+            response = "He gg like ang interesting  rrteacher.";
         }
+        //gfhsdgtngddgnmdgtmdgtnm
         //else if (trim statement.indexOf() == 0)
         //{
         //    return "please say something.";
